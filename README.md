@@ -1,0 +1,1 @@
+# AI-Powered-Strategy-Generator-From-Ideas-to-Business-Plans
