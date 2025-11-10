@@ -1,0 +1,34 @@
+1. Tech Startup
+
+Query:
+
+“I want to start a SaaS company in the productivity space.”
+
+
+2. Health & Wellness
+
+Query:
+
+“Ideas for a health and wellness business targeting remote workers.”
+
+
+3. Education & E-Learning
+
+Query:
+
+“How can I create a profitable online learning platform for AI and Data Science?”
+Expected output:
+
+
+4. Eco-Friendly / Sustainability
+
+Query:
+
+“Business ideas for eco-friendly products in daily life.”
+
+
+5. AI & Automation Services
+
+Query:
+
+“How can I start a business offering AI automation services to small businesses?”
